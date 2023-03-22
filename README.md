@@ -1,2 +1,2 @@
 # new-cv
-updates version of the old cv website
+updated version of the old cv website
